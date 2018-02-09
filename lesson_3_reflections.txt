@@ -7,3 +7,10 @@ different devices.
 stay up-to-date with your remote repository?
 
 To avoid new changes that may conflict with local edits.
+
+3-Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+Forks: copies of GitHub repositories within GitHub.
+Clone: copies of repositories (either local repositories, or local and GitHub).
+Branches: series of related commits. They can be on GitHub, or in the local machine
