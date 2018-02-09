@@ -2,3 +2,8 @@
 
 Mainly, when I am working with other people. It would be useful too when working on 
 different devices.
+
+2-Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+To avoid new changes that may conflict with local edits.
