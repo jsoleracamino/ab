@@ -22,3 +22,9 @@ How would branches help?
 
 New branches are useful when you want to implement versions of the code, or when you want to
 test changes. They help because they allow you to evolve each branch independently.
+
+5-How do the diagrams help you visualize the branch structure?
+
+The branch diagrams help me to better understand the parent-child relationship of
+every commit. It is helpful also to understand how new commits are going to be related
+to the previous ones.
